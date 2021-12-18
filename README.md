@@ -1,5 +1,5 @@
 # ZJU-Health-check-in-
-ZJU Health check-in浙江大学浙大健康打卡自动程序
+ZJU Health check-in浙江大学浙大健康打卡自动程序，一个.exe程序，一键打卡，简单易用
 -------------------------
 # 使用
 使用win自带任务计划程序运行 '打卡.exe' 程序，也可以部署到windows.sever 服务器
